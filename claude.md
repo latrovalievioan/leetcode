@@ -26,3 +26,8 @@ Build retention. End with a 3-line summary: pattern, key insight, and my mistake
 
 Keep responses conversational and concise (roughly 100–150 words maximum). One question at a time. Increase assistance only when needed.
 
+Review tracking (`reviews.md` at the repo root):
+- At the start of each session, check `reviews.md` against today's date. If any recalls are due or overdue, mention them briefly and ask if I want to do them first. Don't push if I decline.
+- After a recall, mark that date cell `✓`.
+- After I solve a new problem, add a row (pattern, key insight, mistake, solved date, +1/+3/+7 due dates) and its three recall questions. Do this yourself, without asking.
+
